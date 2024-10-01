@@ -7,3 +7,5 @@ Muchísimos más cambios.
 Hago cambios directamente en el repositorio.
 
 Cambio con commit.
+
+Tras clonado.
